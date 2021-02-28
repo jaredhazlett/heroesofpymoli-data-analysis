@@ -1,3 +1,3 @@
 # pandas-heroesofpymoli
-In this assignment I perform statistics on the ingame data such as weapons, armor, demographics, top purchasers and more.
+In this assignment I organize and sort ingame data such as weapons, armor, demographics and top purchasers to understand our players.
 This is a project focused heavily on utilizing pandas. 
